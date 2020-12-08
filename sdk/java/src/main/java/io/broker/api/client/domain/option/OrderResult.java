@@ -7,7 +7,7 @@ import lombok.Singular;
 /**
  * @ProjectName:
  * @Package:
- * @Author: liuming  <mingliu@gbtc.com>
+ * @Author: liuming  <mingliu@gbtc.co>
  * @CreateDate: 2020-06-04 11:10
  * @Copyright（C）: 2018 GBTC Inc. All rights reserved.
  */

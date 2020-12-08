@@ -2,6 +2,6 @@
 
 Name | base endpoint
 ------------ | ------------
-rest-api | **[https://api.gbtc.com](https://api.gbtc.com)**
-web-socket-streams | **[wss://wsapi.gbtc.com](wss://wsapi.gbtc.com)**
-user-data-stream | **[wss://wsapi.gbtc.com](wss://wsapi.gbtc.com)**
+rest-api | **[https://api.gbtc.co](https://api.gbtc.co)**
+web-socket-streams | **[wss://wsapi.gbtc.co](wss://wsapi.gbtc.co)**
+user-data-stream | **[wss://wsapi.gbtc.co](wss://wsapi.gbtc.co)**
